@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # HTML Assignment Project
 
 ## Description
@@ -12,6 +12,3 @@ Clone the repository and open the index.html file in any web browser.
 
 ## Author
 Baibhav Tibrewal
-=======
-# firsthtmlcommit
->>>>>>> 10e0936cd8c56a151a1b1d6ae79cb737b38c1d5c
